@@ -1,0 +1,382 @@
+[
+  {
+    "id": "street-fighter-ii",
+    "title": "Street Fighter II",
+    "description": "Classic fighting game with iconic characters and fast-paced action.",
+    "platform": "Arcade",
+    "genre": "Fighting",
+    "release_year": 1991,
+    "developer": "Capcom",
+    "cover": "https://cdn.vaultplay.com/covers/sf2.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/sf2-1.jpg",
+      "https://cdn.vaultplay.com/screens/sf2-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/sf2.zip",
+    "size_mb": 5,
+    "tokens_reward": 8,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "tekken-3",
+    "title": "Tekken 3",
+    "description": "One of the most iconic PS1 fighting games with 23 characters and smooth gameplay.",
+    "platform": "PS1",
+    "genre": "Fighting",
+    "release_year": 1998,
+    "developer": "Namco",
+    "cover": "https://cdn.vaultplay.com/covers/tekken3.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/tekken3-1.jpg",
+      "https://cdn.vaultplay.com/screens/tekken3-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/tekken3.iso",
+    "size_mb": 450,
+    "tokens_reward": 10,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "metal-slug-x",
+    "title": "Metal Slug X",
+    "description": "Fast-paced arcade run-and-gun game with co-op play.",
+    "platform": "Arcade",
+    "genre": "Shooter",
+    "release_year": 1999,
+    "developer": "SNK",
+    "cover": "https://cdn.vaultplay.com/covers/metalslugx.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/metalslugx-1.jpg",
+      "https://cdn.vaultplay.com/screens/metalslugx-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/metalslugx.zip",
+    "size_mb": 25,
+    "tokens_reward": 8,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "king-of-fighters-98",
+    "title": "King of Fighters '98",
+    "description": "Legendary arcade fighting game with a huge roster.",
+    "platform": "Arcade",
+    "genre": "Fighting",
+    "release_year": 1998,
+    "developer": "SNK",
+    "cover": "https://cdn.vaultplay.com/covers/kof98.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/kof98-1.jpg",
+      "https://cdn.vaultplay.com/screens/kof98-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/kof98.zip",
+    "size_mb": 30,
+    "tokens_reward": 9,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "pac-man",
+    "title": "Pac-Man",
+    "description": "The classic maze-chase game that started it all.",
+    "platform": "Arcade",
+    "genre": "Puzzle",
+    "release_year": 1980,
+    "developer": "Namco",
+    "cover": "https://cdn.vaultplay.com/covers/pacman.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/pacman-1.jpg",
+      "https://cdn.vaultplay.com/screens/pacman-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/pacman.zip",
+    "size_mb": 1,
+    "tokens_reward": 5,
+    "trending": false,
+    "recently_played": true
+  },
+  {
+    "id": "galaga",
+    "title": "Galaga",
+    "description": "Classic arcade shooter with addictive gameplay.",
+    "platform": "Arcade",
+    "genre": "Shooter",
+    "release_year": 1981,
+    "developer": "Namco",
+    "cover": "https://cdn.vaultplay.com/covers/galaga.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/galaga-1.jpg",
+      "https://cdn.vaultplay.com/screens/galaga-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/galaga.zip",
+    "size_mb": 2,
+    "tokens_reward": 6,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "double-dragon",
+    "title": "Double Dragon",
+    "description": "Classic beat 'em up with co-op action.",
+    "platform": "Arcade",
+    "genre": "Fighting",
+    "release_year": 1987,
+    "developer": "Technos Japan",
+    "cover": "https://cdn.vaultplay.com/covers/doubledragon.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/doubledragon-1.jpg",
+      "https://cdn.vaultplay.com/screens/doubledragon-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/doubledragon.zip",
+    "size_mb": 3,
+    "tokens_reward": 7,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "mortal-kombat-ii",
+    "title": "Mortal Kombat II",
+    "description": "Brutal arcade fighting game with fatalities.",
+    "platform": "Arcade",
+    "genre": "Fighting",
+    "release_year": 1993,
+    "developer": "Midway",
+    "cover": "https://cdn.vaultplay.com/covers/mk2.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/mk2-1.jpg",
+      "https://cdn.vaultplay.com/screens/mk2-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/mk2.zip",
+    "size_mb": 6,
+    "tokens_reward": 8,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "contra",
+    "title": "Contra",
+    "description": "Legendary run-and-gun shooter with co-op mode.",
+    "platform": "Arcade",
+    "genre": "Shooter",
+    "release_year": 1987,
+    "developer": "Konami",
+    "cover": "https://cdn.vaultplay.com/covers/contra.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/contra-1.jpg",
+      "https://cdn.vaultplay.com/screens/contra-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/contra.zip",
+    "size_mb": 4,
+    "tokens_reward": 7,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "final-fight",
+    "title": "Final Fight",
+    "description": "Classic side-scrolling beat 'em up.",
+    "platform": "Arcade",
+    "genre": "Fighting",
+    "release_year": 1989,
+    "developer": "Capcom",
+    "cover": "https://cdn.vaultplay.com/covers/finalfight.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/finalfight-1.jpg",
+      "https://cdn.vaultplay.com/screens/finalfight-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/finalfight.zip",
+    "size_mb": 5,
+    "tokens_reward": 7,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "crash-bandicoot",
+    "title": "Crash Bandicoot",
+    "description": "Classic PS1 platformer with challenging levels.",
+    "platform": "PS1",
+    "genre": "Platformer",
+    "release_year": 1996,
+    "developer": "Naughty Dog",
+    "cover": "https://cdn.vaultplay.com/covers/crashbandicoot.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/crashbandicoot-1.jpg",
+      "https://cdn.vaultplay.com/screens/crashbandicoot-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/crashbandicoot.iso",
+    "size_mb": 350,
+    "tokens_reward": 10,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "resident-evil-2",
+    "title": "Resident Evil 2",
+    "description": "Survival horror classic with two playable characters.",
+    "platform": "PS1",
+    "genre": "Horror",
+    "release_year": 1998,
+    "developer": "Capcom",
+    "cover": "https://cdn.vaultplay.com/covers/re2.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/re2-1.jpg",
+      "https://cdn.vaultplay.com/screens/re2-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/re2.iso",
+    "size_mb": 700,
+    "tokens_reward": 12,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "gran-turismo",
+    "title": "Gran Turismo",
+    "description": "Realistic racing sim with dozens of cars and tracks.",
+    "platform": "PS1",
+    "genre": "Racing",
+    "release_year": 1997,
+    "developer": "Polyphony Digital",
+    "cover": "https://cdn.vaultplay.com/covers/granturismo.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/granturismo-1.jpg",
+      "https://cdn.vaultplay.com/screens/granturismo-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/granturismo.iso",
+    "size_mb": 600,
+    "tokens_reward": 11,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "wwf-smackdown",
+    "title": "WWF SmackDown!",
+    "description": "Wrestling action with a huge roster and story mode.",
+    "platform": "PS1",
+    "genre": "Sports",
+    "release_year": 2000,
+    "developer": "Yuke's",
+    "cover": "https://cdn.vaultplay.com/covers/wwfsmackdown.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/wwfsmackdown-1.jpg",
+      "https://cdn.vaultplay.com/screens/wwfsmackdown-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/wwfsmackdown.iso",
+    "size_mb": 500,
+    "tokens_reward": 10,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "tony-hawk-2",
+    "title": "Tony Hawk’s Pro Skater 2",
+    "description": "Skateboarding classic with legendary tricks and parks.",
+    "platform": "PS1",
+    "genre": "Sports",
+    "release_year": 2000,
+    "developer": "Neversoft",
+    "cover": "https://cdn.vaultplay.com/covers/tonyhawk2.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/tonyhawk2-1.jpg",
+      "https://cdn.vaultplay.com/screens/tonyhawk2-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/tonyhawk2.iso",
+    "size_mb": 400,
+    "tokens_reward": 10,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "god-of-war-psp",
+    "title": "God of War: Chains of Olympus",
+    "description": "Epic action-adventure with mythological battles.",
+    "platform": "PSP",
+    "genre": "Action",
+    "release_year": 2008,
+    "developer": "Ready at Dawn",
+    "cover": "https://cdn.vaultplay.com/covers/gow-psp.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/gow-psp-1.jpg",
+      "https://cdn.vaultplay.com/screens/gow-psp-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/gow-psp.cso",
+    "size_mb": 1200,
+    "tokens_reward": 15,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "tekken-6-psp",
+    "title": "Tekken 6",
+    "description": "Latest portable entry in the legendary fighting series.",
+    "platform": "PSP",
+    "genre": "Fighting",
+    "release_year": 2009,
+    "developer": "Namco Bandai",
+    "cover": "https://cdn.vaultplay.com/covers/tekken6-psp.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/tekken6-psp-1.jpg",
+      "https://cdn.vaultplay.com/screens/tekken6-psp-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/tekken6-psp.cso",
+    "size_mb": 900,
+    "tokens_reward": 14,
+    "trending": true,
+    "recently_played": false
+  },
+  {
+    "id": "nfs-most-wanted-psp",
+    "title": "Need for Speed: Most Wanted",
+    "description": "High-speed racing with police chases and custom cars.",
+    "platform": "PSP",
+    "genre": "Racing",
+    "release_year": 2005,
+    "developer": "EA Canada",
+    "cover": "https://cdn.vaultplay.com/covers/nfs-mw-psp.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/nfs-mw-psp-1.jpg",
+      "https://cdn.vaultplay.com/screens/nfs-mw-psp-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/nfs-mw-psp.cso",
+    "size_mb": 700,
+    "tokens_reward": 12,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "naruto-psp",
+    "title": "Naruto Shippuden: Ultimate Ninja Heroes 3",
+    "description": "Anime fighting game with 50+ playable characters.",
+    "platform": "PSP",
+    "genre": "Fighting",
+    "release_year": 2010,
+    "developer": "CyberConnect2",
+    "cover": "https://cdn.vaultplay.com/covers/naruto-psp.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/naruto-psp-1.jpg",
+      "https://cdn.vaultplay.com/screens/naruto-psp-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/naruto-psp.cso",
+    "size_mb": 800,
+    "tokens_reward": 13,
+    "trending": false,
+    "recently_played": false
+  },
+  {
+    "id": "dbz-shin-budokai-psp",
+    "title": "Dragon Ball Z: Shin Budokai",
+    "description": "Fast-paced anime fighting game with all your favorite DBZ characters.",
+    "platform": "PSP",
+    "genre": "Fighting",
+    "release_year": 2006,
+    "developer": "Dimps",
+    "cover": "https://cdn.vaultplay.com/covers/dbz-shinbudokai-psp.jpg",
+    "screenshots": [
+      "https://cdn.vaultplay.com/screens/dbz-shinbudokai-psp-1.jpg",
+      "https://cdn.vaultplay.com/screens/dbz-shinbudokai-psp-2.jpg"
+    ],
+    "file_url": "https://cdn.vaultplay.com/roms/dbz-shinbudokai-psp.cso",
+    "size_mb": 650,
+    "tokens_reward": 12,
+    "trending": false,
+    "recently_played": false
+  }
+]

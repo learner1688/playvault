@@ -1,0 +1,8 @@
+{
+  "project": "vaultplay-backend",
+  "start": "node backend/app.js",
+  "env": {
+    "PORT": 4000,
+    "DB_TYPE": "mongo"
+  }
+}
