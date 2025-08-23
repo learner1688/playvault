@@ -11,7 +11,9 @@ export default function Home() {
         <meta property="og:title" content="VaultPlay – Cloud Retro Arcade" />
         <meta property="og:description" content="Play 20 classic games instantly. No downloads." />
       </Head>
-      <GameGrid />
+      <div className="min-h-screen flex flex-col items-center justify-center">
+        <GameGrid />
+      </div>
     </>
   );
 }
